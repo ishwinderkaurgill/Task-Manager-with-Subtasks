@@ -99,10 +99,9 @@ npm start
 
 ```
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Ishwinder Kaur Gill
+**Ishwinder Kaur**
+- GitHub: [@ishwinderkaurgill](https://github.com/ishwinderkaurgill)
+- LinkedIn: [ishwinder-kaur-gill-78b498232](https://linkedin.com/in/ishwinder-kaur-gill-78b498232)
 
-GitHub: @ishwinderkaurgill
-
-LinkedIn: ishwinder-kaur-gill-78b498232

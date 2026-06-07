@@ -92,7 +92,15 @@ npm install
 echo "MONGO_URI=your_mongodb_connection_string" > .env
 echo "PORT=5000" >> .env
 
+
+
+# Start the server
+npm start
+
 ```
+
+
+
 
 👨‍💻 Author
 Ishwinder Kaur Gill
@@ -100,8 +108,3 @@ Ishwinder Kaur Gill
 GitHub: @ishwinderkaurgill
 
 LinkedIn: ishwinder-kaur-gill-78b498232
-
-
-
-# Start the server
-npm start

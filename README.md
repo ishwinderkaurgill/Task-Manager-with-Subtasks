@@ -99,10 +99,8 @@ npm start
 
 ```
 
-
-
-
 👨‍💻 Author
+
 Ishwinder Kaur Gill
 
 GitHub: @ishwinderkaurgill
